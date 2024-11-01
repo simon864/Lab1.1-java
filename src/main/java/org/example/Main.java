@@ -5,7 +5,6 @@ package org.example;
 public class Main {
     public Main() {
     }
-
     public static String fizzbuzz(int number) {
         if (number % 5 == 0 && number % 7 == 0) {
             return "fizzbuzz";
